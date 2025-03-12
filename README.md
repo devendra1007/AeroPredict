@@ -6,8 +6,6 @@
 
 > Predict future airline passenger numbers with state-of-the-art LSTM neural networks
 
-![Project Banner](screenshots/Banner.png)
-
 ## 🚀 Overview
 
 **AirPassPro** uses Long Short-Term Memory (LSTM) neural networks to forecast airline passenger numbers based on historical data. This project demonstrates advanced time series forecasting techniques with TensorFlow, perfect for data scientists and ML engineers interested in predictive analytics.
